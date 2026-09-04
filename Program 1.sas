@@ -74,7 +74,7 @@ run;
 data work.kb_rules_evaluated;
     set work.kb_persons;
 
-    /* Derived Metrics */
+    /* Metrics */
     Total_Loan_Cost = Monthly_Payment * Numb_Months;
     Jobless_Flag = (Years_In_Company = 0);
 
