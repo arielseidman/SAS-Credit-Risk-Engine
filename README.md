@@ -1,4 +1,4 @@
-# SAS Credit Risk Scoring & Automated Decision Engine
+# SAS Credit Risk Scoring & Automated Classification Engine
 
 A quantitative credit risk pipeline developed in SAS Studio. This project combines a rule engine with statistical modeling to evaluate creditworthiness, mitigate small-sample bias, and automate risk-tier classification.
 
